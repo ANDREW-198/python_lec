@@ -12,7 +12,7 @@ def draw_house(x, y, width, height):
     :return: None
     """
     print("Типа рисую домик...",x, y, width, height)
-    pass #do nothing
+    pass #do nothing very sad
 
 draw_house(x, y, width, height)
 
