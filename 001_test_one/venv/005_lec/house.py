@@ -13,7 +13,7 @@ def draw_house(x, y, width, height):
     """
     print("Типа рисую домик...",x, y, width, height)
     pass #do nothing very sad
-
+    pass #do nothing
 draw_house(x, y, width, height)
 
 
